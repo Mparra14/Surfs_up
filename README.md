@@ -9,7 +9,7 @@ For the month of June:
  * The highest tempereture during this month is 85 F°.
  * The lowest temperature for this is month was 64 F°. These can be seen in the table below.
  
- ![Jun_temp]()
+ ![Jun_temp](https://github.com/Mparra14/Surfs_up/blob/main/June_temp.png)
  
  For the month of Decemeber:
  * It's seen that the average temperature is 71 F°.
