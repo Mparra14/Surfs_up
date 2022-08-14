@@ -23,5 +23,5 @@ For the month of June:
 
 In order to look at the precipitation for each month, I decided to refactor the query to specify the precipitation column instead of the temperature. While using these new queries, it can be seen that the average precipitation in inches for the month of June is 0.136 while the precipitation for December is 0.216. Even though it does rain during these months, it is not significantly higher than normal. Considering the results, rain during these months shouldn't affect sales as much, while there are outliers in the data, those days will just have lesser sales. The statistics for the precipitation for both of these months can be seen below. 
 ![Prec_june]()
-![prec_dec]()
+![prec_dec](https://github.com/Mparra14/Surfs_up/blob/main/precipitation_dec.png)
 
